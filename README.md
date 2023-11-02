@@ -74,7 +74,7 @@ To get these values you need to create an Account on [HyGraph](https://app.hygra
   npm start
 ```
 
-<h2 id="contribute">👩‍💻creditos a Fernanda-Kipper Contribute</h2>
+<h2 id="contribute">👩‍💻creditos a Fernanda-Kipper </h2>
 
 If you want to contribute, clone this repo, create your work branch and get your hands dirty!
 
