@@ -39,8 +39,9 @@
 <h4>Install project</h4>
 
 ```
-git clone https://github.com/Fernanda-Kipper/text-editor.git
 npm install
+if erro
+npm audit fix --force
 ```
 
 <h4>Environment Variables</h4>
